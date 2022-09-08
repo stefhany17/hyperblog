@@ -11,6 +11,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 
-Este repositorio fue diseñado con el fin de practicas Git- github. 
+Este repositorio fue diseñado con el fin de practicar Git- github. 
 
 Practica de SR ✨✨🎉🎊🎍🎎🎋
